@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2951a4ab-e556-418b-af97-a736b9a8d2d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f458f948-4d6a-41ca-b504-3f47a6c737e1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/CoreTaskTemplate.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_4_3_10_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_211.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_21__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaskJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql-connector-java-8.0.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TestRev.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDaoHibernateImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDaoJDBCImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/util/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UserServiceTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/UserServiceTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/UserServiceTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k9wNxOKWgiT5E73n9vPNmMRYCq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jm.task.core.jdbc.Main" />
+      <module name="TaskJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jm.task.core.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskJDBC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.cleanUsersTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskJDBC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="METHOD_NAME" value="cleanUsersTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.createUsersTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskJDBC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="METHOD_NAME" value="createUsersTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.saveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskJDBC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="METHOD_NAME" value="saveUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mysql-connector-java-8.0.21.jar" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/util/mysql-connector-java-8.0.21.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.UserServiceTest" />
+        <item itemvalue="JUnit.UserServiceTest.cleanUsersTable" />
+        <item itemvalue="JUnit.UserServiceTest.saveUser" />
+        <item itemvalue="JUnit.UserServiceTest.createUsersTable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2951a4ab-e556-418b-af97-a736b9a8d2d3" name="Default Changelist" comment="" />
+      <created>1605126078373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605126078373</updated>
+      <workItem from="1605126080831" duration="2383000" />
+      <workItem from="1605199330760" duration="3631000" />
+      <workItem from="1605783309944" duration="250000" />
+      <workItem from="1605787325740" duration="4942000" />
+      <workItem from="1605981306509" duration="36308000" />
+      <workItem from="1607952637808" duration="270000" />
+      <workItem from="1608217398176" duration="522000" />
+      <workItem from="1609683392804" duration="578000" />
+      <workItem from="1610391373343" duration="551000" />
+      <workItem from="1610399645488" duration="115000" />
+      <workItem from="1610399814773" duration="4000" />
+      <workItem from="1610399822857" duration="3000" />
+      <workItem from="1615134551264" duration="1785000" />
+      <workItem from="1615282045002" duration="21843000" />
+    </task>
+    <task id="LOCAL-00001" summary="1-commit">
+      <created>1605898650964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605898650964</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2-commit">
+      <created>1606129169296</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606129169296</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2-commit">
+      <created>1615394121482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615394121482</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1-commit" />
+    <MESSAGE value="2-commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2-commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="83" key="#Notifications" timestamp="1615394740732">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="320" y="83" key="#Notifications/0.25.1440.791@0.25.1440.791" timestamp="1615394740732" />
+    <state x="319" y="83" key="#Project_Structure" timestamp="1615191587830">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="319" y="83" key="#Project_Structure/0.25.1440.791@0.25.1440.791" timestamp="1615191587830" />
+    <state x="319" y="83" key="#SQL_Dialects" timestamp="1606857959096">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="319" y="83" key="#SQL_Dialects/0.25.1440.791@0.25.1440.791" timestamp="1606857959096" />
+    <state x="320" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615391647101">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="320" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.791@0.25.1440.791" timestamp="1615391647101" />
+    <state x="464" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1615391166046">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="464" y="125" key="#com.intellij.ide.util.MemberChooser/0.25.1440.791@0.25.1440.791" timestamp="1615391166046" />
+    <state x="335" y="113" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1606682181001">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="335" y="113" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.25.1440.791@0.25.1440.791" timestamp="1606682181001" />
+    <state x="309" y="25" width="821" height="791" key="CommitChangelistDialog2" timestamp="1615394121290">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="309" y="25" width="821" height="791" key="CommitChangelistDialog2/0.25.1440.791@0.25.1440.791" timestamp="1615394121290" />
+    <state x="481" y="140" key="DetectedRootsChooserDialog" timestamp="1606682148356">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="481" y="140" key="DetectedRootsChooserDialog/0.25.1440.791@0.25.1440.791" timestamp="1606682148356" />
+    <state width="1398" height="131" key="GridCell.Tab.0.bottom" timestamp="1615393818808">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state width="1398" height="131" key="GridCell.Tab.0.bottom/0.25.1440.791@0.25.1440.791" timestamp="1615393818808" />
+    <state width="1398" height="131" key="GridCell.Tab.0.center" timestamp="1615393818807">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state width="1398" height="131" key="GridCell.Tab.0.center/0.25.1440.791@0.25.1440.791" timestamp="1615393818807" />
+    <state width="1398" height="131" key="GridCell.Tab.0.left" timestamp="1615393818807">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state width="1398" height="131" key="GridCell.Tab.0.left/0.25.1440.791@0.25.1440.791" timestamp="1615393818807" />
+    <state width="1398" height="131" key="GridCell.Tab.0.right" timestamp="1615393818808">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state width="1398" height="131" key="GridCell.Tab.0.right/0.25.1440.791@0.25.1440.791" timestamp="1615393818808" />
+    <state width="1398" height="248" key="GridCell.Tab.1.bottom" timestamp="1615388269802">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.bottom/0.25.1440.791@0.25.1440.791" timestamp="1615388269802" />
+    <state width="1398" height="248" key="GridCell.Tab.1.center" timestamp="1615388269802">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.center/0.25.1440.791@0.25.1440.791" timestamp="1615388269802" />
+    <state width="1398" height="248" key="GridCell.Tab.1.left" timestamp="1615388269801">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.left/0.25.1440.791@0.25.1440.791" timestamp="1615388269801" />
+    <state width="1398" height="248" key="GridCell.Tab.1.right" timestamp="1615388269802">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.right/0.25.1440.791@0.25.1440.791" timestamp="1615388269802" />
+    <state x="229" y="56" key="SettingsEditor" timestamp="1615283295758">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="229" y="56" key="SettingsEditor/0.25.1440.791@0.25.1440.791" timestamp="1615283295758" />
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2" timestamp="1615394820483">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.25.1440.791@0.25.1440.791" timestamp="1615394820483" />
+    <state x="483" y="47" key="com.intellij.ide.util.TipDialog" timestamp="1615134573117">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="483" y="47" key="com.intellij.ide.util.TipDialog/0.25.1440.791@0.25.1440.791" timestamp="1615134573117" />
+    <state x="506" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615394269426">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="506" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.791@0.25.1440.791" timestamp="1615394269426" />
+    <state x="123" y="40" key="new project wizard" timestamp="1607952731097">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="123" y="40" key="new project wizard/0.25.1440.791@0.25.1440.791" timestamp="1607952731097" />
+  </component>
+</project>

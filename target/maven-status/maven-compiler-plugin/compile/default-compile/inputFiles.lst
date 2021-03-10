@@ -1,0 +1,8 @@
+/Users/andrejkondrienko/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java
+/Users/andrejkondrienko/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/model/User.java
+/Users/andrejkondrienko/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/service/UserService.java
+/Users/andrejkondrienko/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java
+/Users/andrejkondrienko/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java
+/Users/andrejkondrienko/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/util/Util.java
+/Users/andrejkondrienko/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/dao/UserDao.java
+/Users/andrejkondrienko/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/Main.java
