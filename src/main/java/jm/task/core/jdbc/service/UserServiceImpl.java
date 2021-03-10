@@ -32,8 +32,8 @@ public class UserServiceImpl extends Util implements UserService {
     }
 
     public List<User> getAllUsers() {
-        userDaoJDBC.getAllUsers();
-        return null;
+
+        return userDaoJDBC.getAllUsers();
     }
 
     public void cleanUsersTable() {
