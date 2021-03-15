@@ -6,6 +6,7 @@ import org.hibernate.Session;
 import org.hibernate.Transaction;
 
 import java.util.List;
+
 import jm.task.core.jdbc.util.Util;
 
 
@@ -34,16 +35,27 @@ public class UserDaoHibernateImpl extends Util implements UserDao {
 
     @Override
     public void dropUsersTable() {
-        Session session = getSessionFactory().openSession();
-        Transaction transaction = session.beginTransaction();
+        Session session = null;
+        Transaction transaction = null;
+        try {
+            session = getSessionFactory().openSession();
+            transaction = session.beginTransaction();
 
-        String sql = "DROP TABLE IF EXISTS User";
+            String sql = "DROP TABLE IF EXISTS User";
 
-        Query query = session.createSQLQuery(sql).addEntity(User.class);
-        query.executeUpdate();
+            Query query = session.createSQLQuery(sql).addEntity(User.class);
+            query.executeUpdate();
 
-        transaction.commit();
-        session.close();
+            transaction.commit();
+        } catch (Exception e) {
+            if (transaction != null) {
+                transaction.rollback();
+            }
+        } finally {
+            if (session != null) {
+                session.close();
+            }
+        }
 
     }
 
@@ -57,14 +69,12 @@ public class UserDaoHibernateImpl extends Util implements UserDao {
             session.save(new User(name, lastName, age));
             transaction.commit();
             System.out.println("User с именем - " + name + " добавлен в базу данных");
-        }
-         catch (Exception e) {
+        } catch (Exception e) {
 
-             if (transaction != null) {
-                 transaction.rollback();
-             }
-         }
-        finally {
+            if (transaction != null) {
+                transaction.rollback();
+            }
+        } finally {
 
             if (session != null) {
                 session.close();
@@ -135,6 +145,5 @@ public class UserDaoHibernateImpl extends Util implements UserDao {
                 session.close();
             }
         }
-
     }
 }

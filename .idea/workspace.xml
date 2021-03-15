@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2951a4ab-e556-418b-af97-a736b9a8d2d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaskJDBC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TaskJDBC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/util/Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDaoHibernateImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDaoHibernateImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDaoJDBCImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDaoJDBCImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/service/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/util/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/util/Util.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/UserServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UserServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +174,7 @@
       <workItem from="1610399814773" duration="4000" />
       <workItem from="1610399822857" duration="3000" />
       <workItem from="1615134551264" duration="1785000" />
-      <workItem from="1615282045002" duration="55636000" />
+      <workItem from="1615282045002" duration="58090000" />
     </task>
     <task id="LOCAL-00001" summary="1-commit">
       <created>1605898650964</created>
@@ -227,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615398002993</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2-commit">
+      <created>1615796868591</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615796868593</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,10 +230,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="2-commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="83" key="#Notifications" timestamp="1615394740732">
+    <state x="320" y="83" key="#Notifications" timestamp="1615797178855">
       <screen x="0" y="25" width="1440" height="791" />
     </state>
-    <state x="320" y="83" key="#Notifications/0.25.1440.791@0.25.1440.791" timestamp="1615394740732" />
+    <state x="320" y="83" key="#Notifications/0.25.1440.791@0.25.1440.791" timestamp="1615797178855" />
     <state x="319" y="83" key="#Project_Structure" timestamp="1615191587830">
       <screen x="0" y="25" width="1440" height="791" />
     </state>
@@ -251,10 +242,10 @@
       <screen x="0" y="25" width="1440" height="791" />
     </state>
     <state x="319" y="83" key="#SQL_Dialects/0.25.1440.791@0.25.1440.791" timestamp="1606857959096" />
-    <state x="320" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615545482394">
+    <state x="320" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615797192143">
       <screen x="0" y="25" width="1440" height="791" />
     </state>
-    <state x="320" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.791@0.25.1440.791" timestamp="1615545482394" />
+    <state x="320" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.791@0.25.1440.791" timestamp="1615797192143" />
     <state x="464" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1615544863936">
       <screen x="0" y="25" width="1440" height="791" />
     </state>
@@ -263,14 +254,18 @@
       <screen x="0" y="25" width="1440" height="791" />
     </state>
     <state x="335" y="113" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.25.1440.791@0.25.1440.791" timestamp="1606682181001" />
-    <state x="309" y="25" width="821" height="791" key="CommitChangelistDialog2" timestamp="1615796858637">
+    <state x="309" y="25" width="821" height="791" key="CommitChangelistDialog2" timestamp="1615796868314">
       <screen x="0" y="25" width="1440" height="791" />
     </state>
-    <state x="309" y="25" width="821" height="791" key="CommitChangelistDialog2/0.25.1440.791@0.25.1440.791" timestamp="1615796858637" />
+    <state x="309" y="25" width="821" height="791" key="CommitChangelistDialog2/0.25.1440.791@0.25.1440.791" timestamp="1615796868314" />
     <state x="481" y="140" key="DetectedRootsChooserDialog" timestamp="1606682148356">
       <screen x="0" y="25" width="1440" height="791" />
     </state>
     <state x="481" y="140" key="DetectedRootsChooserDialog/0.25.1440.791@0.25.1440.791" timestamp="1606682148356" />
+    <state x="585" y="318" key="Github.ShareDialog" timestamp="1615797075921">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="585" y="318" key="Github.ShareDialog/0.25.1440.791@0.25.1440.791" timestamp="1615797075921" />
     <state width="1398" height="183" key="GridCell.Tab.0.bottom" timestamp="1615796495029">
       <screen x="0" y="25" width="1440" height="791" />
     </state>
@@ -311,18 +306,18 @@
       <screen x="0" y="25" width="1440" height="791" />
     </state>
     <state x="229" y="56" key="SettingsEditor/0.25.1440.791@0.25.1440.791" timestamp="1615468355620" />
-    <state x="320" y="157" key="Vcs.Push.Dialog.v2" timestamp="1615398130180">
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2" timestamp="1615796887928">
       <screen x="0" y="25" width="1440" height="791" />
     </state>
-    <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.25.1440.791@0.25.1440.791" timestamp="1615398130180" />
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.25.1440.791@0.25.1440.791" timestamp="1615796887928" />
     <state x="483" y="47" key="com.intellij.ide.util.TipDialog" timestamp="1615134573117">
       <screen x="0" y="25" width="1440" height="791" />
     </state>
     <state x="483" y="47" key="com.intellij.ide.util.TipDialog/0.25.1440.791@0.25.1440.791" timestamp="1615134573117" />
-    <state x="506" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615398011347">
+    <state x="506" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615797031167">
       <screen x="0" y="25" width="1440" height="791" />
     </state>
-    <state x="506" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.791@0.25.1440.791" timestamp="1615398011347" />
+    <state x="506" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.791@0.25.1440.791" timestamp="1615797031167" />
     <state x="123" y="40" key="new project wizard" timestamp="1607952731097">
       <screen x="0" y="25" width="1440" height="791" />
     </state>
